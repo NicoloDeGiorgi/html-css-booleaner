@@ -11,15 +11,44 @@ header {
     padding-top: 40px;
 }
 
-.bot {
+#bot {
     color: rgb(148, 147, 147)
 }
 
-.bot span {
+#bot span {
     color: #64dafa;
 }
 
 .foto {
     height: 400px;
     padding-top: 20px;
+}
+
+.list {
+    margin-left: -25px;
+}
+
+#border {
+    background-color: #ffff00;
+}
+
+th {
+    color: white;
+    background-color: #7fa6fb;
+}
+
+
+.cella-1 {
+    background-color: #dfe5f2;
+}
+
+#Copyright {
+    color: white;
+    background-color: #313a6b;
+    height: 40px;
+    margin-top: 35px;
+}
+
+h4 {
+    margin-left: 50%;
 }
